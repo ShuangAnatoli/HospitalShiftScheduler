@@ -1,0 +1,14 @@
+To-Do
+- review the original system for:
+    how it works?
+    specific pain points
+    How does the current rule system actually function?
+
+first: set up project and made db working with core tables (tables are not important here)
+last week: designed ERD (draft)
+18/10/2025: Made a very simple form for visualization.
+
+
+
+Summary Since Last Date
+The form is UI. Not working. For the next week, review the OG system and set up form to back-end relationship to populate db.
